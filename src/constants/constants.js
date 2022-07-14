@@ -1,16 +1,16 @@
 export const projects = [
   {
-    title: 'MERN Memories',
-    description: "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
+    title: 'Todo List by React JS',
+    description: "My first JavaScript project that uses react, css and javascript to deploy a basic front end app. Can set schedules as designated dates and mark them as 'important', take user input and collapes the input area by a single button. Using yarn to deploy the website on github page. See detail in the demo",
       image: '/images/1.png',
-      tags: ['Mongo', 'Express', 'React', 'Node'],
+      tags: ['React', 'CSS', 'JavaScript', 'yarn'],
     code: 'https://github.com/Daniel-Xkan/react-todoList',
     demo: 'https://daniel-xkan.github.io/react-todoList/',
     id: 0,
   },
   {
-    title: 'E-Commerce',
-    description:"While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
+    title: 'My Personal Portfolio by React and Next JS',
+    description:"An JavaScript app based on React and Next JS, navigating through different sections of the page and display the projects I have done. Note: this project was developed based on a youtube tutorial. The CSS file and set up (namely the detalails of Buttons and fonts and etc) was not made by me. Credit to: Javascript Mastery YouTube channel",
     image: '/images/2.png',
     tags: ['React', 'JavaScript'],
     code: 'https://google.com',
