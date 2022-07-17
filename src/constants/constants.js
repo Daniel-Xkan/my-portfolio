@@ -13,8 +13,8 @@ export const projects = [
     description:"An JavaScript app based on React and Next JS, navigating through different sections of the page and display the projects I have done. Note: this project was developed based on a youtube tutorial. The CSS file and set up (namely the detalails of Buttons and fonts and etc) was not made by me. Credit to: Javascript Mastery YouTube channel",
     image: '/images/2.png',
     tags: ['React', 'JavaScript'],
-    code: 'https://google.com',
-    demo: 'https://google.com',
+    code: 'https://github.com/Daniel-Xkan/my-portfolio',
+    demo: 'https://daniel-xkan.github.io/my-portfolio/',
     id: 1,
   },
   // {
