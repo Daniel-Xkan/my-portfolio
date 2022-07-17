@@ -14,7 +14,7 @@ const Hero = (props) => (
       <SectionText>
         In here, I will walk through all the expeirence I have and projects and stuff I've done.
       </SectionText>
-      <Button onClick ={()=> location.href = "#contactinfo"}>Contact Me</Button>
+      <Button onClick ={()=> location.href = "#footer"}>Contact Me</Button>
     </LeftSection>
   </section>
 );

@@ -7,6 +7,7 @@ import { CompanyContainer, FooterWrapper, LinkColumn, LinkItem, LinkList, LinkTi
 
 const Footer = () => {
   return (
+    <section id = "footer">
     <FooterWrapper>
       <LinkList>
         <LinkColumn>
@@ -43,6 +44,7 @@ const Footer = () => {
         </SocialContainer>
       </SocialIconsContainer>
     </FooterWrapper>
+    </section>
   );
 };
 

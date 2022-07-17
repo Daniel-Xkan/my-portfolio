@@ -38,9 +38,8 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  { year: 2020, text: 'Started my journey at UCSD with python', },
+  { year: 2021, text: 'Worked on Datastructures, from BST to Red Black tree etc... also did school Python and java projects with my own algoritms', },
+  { year: 2022, text: 'Study Java  C   ARM   C++ at UCSD and self study  HTML   CSS   JavaScript   React on Coursera, YouTube', },
+
 ];
