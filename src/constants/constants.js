@@ -37,6 +37,10 @@ export const projects = [
   // },
 ];
 
+export const mePics = [
+  {image : '/images/Daniel-selfie.jpg'},
+];
+
 export const TimeLineData = [
   { year: 2020, text: 'Started my journey at UCSD with python', },
   { year: 2021, text: 'Worked on Datastructures, from BST to Red Black tree etc... also did school Python and java projects with my own algoritms', },
