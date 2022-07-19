@@ -12,7 +12,7 @@ const Hero = (props) => (
         My Personal Portfolio
       </SectionTitle> 
       <SectionText>
-        In here, I will walk through all the expeirence I have and projects and stuff I've done.
+        My Name is Xuechen (Daniel) Kan, I am currently UC San Diego undergrade under computer science major. An aspiring Web Developer that uses tools such as React JS and Next JS.
       </SectionText>
       <Button onClick ={()=> location.href = "#footer"}>Contact Me</Button>
     </LeftSection>
