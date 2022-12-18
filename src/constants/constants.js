@@ -1,12 +1,21 @@
 export const projects = [
   {
+    title: 'Job Tracker',
+    description:"A full stack group project with HTML, CSS and Javascript for keeping track of job(intern) application status. Use Javascript shadow root to put userinput into display. With sort by column function to sort each column of content alphabetically (I implemented this). I also worked on css to make it a neat, simple modern design",
+    image: '/images/0.png',
+    tags: ['HTML', 'CSS','JavaScript'],
+    code: 'https://github.com/cse110-fa22-group23/cse110-fa22-group23',
+    demo: 'https://cse110-fa22-group23.github.io/cse110-fa22-group23/',
+    id: 0,
+  },
+  {
     title: 'Todo List by React JS',
     description: "My first JavaScript project that uses react, css and javascript to deploy a basic front end app. Can set schedules as designated dates and mark them as 'important', take user input and collapes the input area by a single button. Using yarn to deploy the website on github page. See detail in the demo",
       image: '/images/1.png',
       tags: ['React', 'CSS', 'JavaScript', 'yarn'],
     code: 'https://github.com/Daniel-Xkan/react-todoList',
     demo: 'https://daniel-xkan.github.io/react-todoList/',
-    id: 0,
+    id: 1,
   },
   {
     title: 'My Personal Portfolio by React and Next JS',
@@ -15,7 +24,7 @@ export const projects = [
     tags: ['React', 'JavaScript'],
     code: 'https://github.com/Daniel-Xkan/my-portfolio',
     demo: 'https://daniel-xkan.github.io/my-portfolio/',
-    id: 1,
+    id: 2,
   },
   // {
   //   title: 'WebRTC App',
