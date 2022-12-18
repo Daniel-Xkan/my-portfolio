@@ -53,6 +53,6 @@ export const mePics = [
 export const TimeLineData = [
   { year: 2020, text: 'Started my journey at UCSD with python', },
   { year: 2021, text: 'Worked on Datastructures, from BST to Red Black tree etc... also did school Python and java projects with my own algoritms', },
-  { year: 2022, text: 'Study Java  C   ARM   C++ at UCSD and self study  HTML   CSS   JavaScript   React on Coursera, YouTube', },
+  { year: 2022, text: 'Study HTML, CSS, JavaScript, Java, C, ARM, C++  at UCSD and self study React on Coursera, YouTube', },
 
 ];
