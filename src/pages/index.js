@@ -11,15 +11,12 @@ import { Section } from '../styles/GlobalComponents';
 const Home = () => {
   return (
     <Layout>
-        <Error />
-      {/* <Section grid> */}
-        <Hero />
-        {/* <BgAnimation /> */}
-      {/* </Section> */}
+      <Error />
+      {/* <Hero />
       <Projects />
       <Technologies />
       <Timeline />
-      <Acomplishments />
+      <Acomplishments /> */}
     </Layout>
   );
 };
